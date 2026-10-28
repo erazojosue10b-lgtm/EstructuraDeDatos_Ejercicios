@@ -27,3 +27,8 @@ cd Tarea5
 g++ main.cpp -o programa
 ./programa
 ```
+```
+cd Tarea6
+g++ main.cpp Pila.cpp -o programa
+./programa
+```
