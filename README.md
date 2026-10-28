@@ -12,3 +12,8 @@ cd Tarea2
 g++ main.cpp -o programa
 ./programa
 ```
+```
+cd Tarea3
+g++ main.cpp Pila.cpp Nodo.cpp Persona.cpp -o programa
+./programa
+```
