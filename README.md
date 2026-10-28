@@ -7,3 +7,8 @@ cd Tarea1
 g++ main.cpp Lista.cpp Nodo.cpp -o programa
 ./programa
 ```
+```
+cd Tarea2
+g++ main.cpp -o programa
+./programa
+```
