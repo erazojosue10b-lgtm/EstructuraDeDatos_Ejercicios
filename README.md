@@ -22,3 +22,8 @@ cd Tarea4
 g++ main.cpp Operaciones.cpp Nodo.cpp -o programa
 ./programa
 ```
+```
+cd Tarea5
+g++ main.cpp -o programa
+./programa
+```
